@@ -1,9 +1,6 @@
-Certainly! Here's a quick guide in Markdown format for setting up and running the environment for your FastAPI application:
 
 ```markdown
 # FastAPI Environment Setup Guide
-
-This guide will help you set up and run your FastAPI application environment on your computer.
 
 ## Prerequisites
 - Python 3.6 or higher
@@ -100,8 +97,3 @@ pip install scipy
   ```bash
   pip check
   ```
-
-By following these steps, you should be able to set up and run your FastAPI environment successfully. If you encounter any issues, review the troubleshooting steps or seek additional help as needed.
-```
-
-Feel free to share or modify this guide as needed! If you need further adjustments or have additional requests, just let me know.
